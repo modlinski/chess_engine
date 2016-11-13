@@ -88,3 +88,5 @@ chess.move('a1', 'a2')
 
 # print chess.board
 print chess.history
+
+# test
